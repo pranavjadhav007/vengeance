@@ -1,0 +1,194 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./privacy.png",
+                "title": "Privacy",
+                "description": "We value your privacy and confidentiality. Customer's information will not be disclosed in any circumstances." 
+            },
+            {
+                "id": 2,
+                "image": "./genuine.png",
+                "title": "Genuine Service",
+                "description": "No false promises to our clients. All services are real and practical. All risk will be ours." 
+            },
+            {
+                "id": 3,
+                "image": "./no_contact.png",
+                "title": "No Contact",
+                "description": "No physical meetings. No offline meetings. Communication only online. Client wont be asked about its personal information. " 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./logs.jpg",
+                "title": "Log File",
+                "category": "Access Log File",
+                "description":"Get access to log files of Android and Windows. It contains the details of the user activity. We will provide the exported log file which can be use to track the user."
+            },
+            {
+                "id": 2,
+                "image": "./network.jpg",
+                "title": "Network Intercept",
+                "category": "Intercept Network",
+                "description":"Alter the request of the user and change the http requests. It can be use to redirect user to desired routing. It need to be done in close range of 100m max."
+            },
+            {
+                "id": 3,
+                "image": "./getinfo.jpg",
+                "title": "Get Information",
+                "category": "Get Information",
+                "description":"Get the information of a Girl or Boy. Her/His social network accounts, online directories, registries and account log images. T&C- Need to do social experimenting with the user so need access to his/her device for some uploads."
+            },
+
+            {
+                "id": 4,
+                "image": "./web.jpg",
+                "title": "Bruite Force Websites",
+                "category": "Bruite Force Websites",
+                "description":"Websites which uses perl script will be bruite forced and the desired functionality will be provide to user."
+            },
+            {
+                "id": 5,
+                "image": "./bypass.jpg",
+                "title": "Bypass Network",
+                "category": "Bypass Network",
+                "description":"Various application and network protocols can be bypassed. This will help to get into the system without user details."
+            },
+            {
+                "id": 6,
+                "image": "./social.jpg",
+                "title": "Social Exploitation",
+                "category": "Social Exploitation",
+                "description":"Permissions of the social network accounts will be alter and the authorization can be change for desired user. T&C- Application should be open on Windows and assigned with Gmail only."
+            },
+            {
+                "id": 7,
+                "image": "./system.jpg",
+                "title": "System Exploitation",
+                "category": "System Exploitation",
+                "description":"A particular system will be exploited and tasks will be carried out based on client demands. T&C- System should be able to provide wifi, ethernet or bluetooth service."
+            },
+            {
+                "id": 8,
+                "image": "./virus.jpg",
+                "title": "Make Custom Virus",
+                "category": "Custom Virus",
+                "description":"We can make a custom virus as per your need. Successfull making of virus depends on the client's demand."
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.jpg",
+                "name": "PRANAV JADHAV",
+                "designation": "vengeancehckservice@proton.me"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.jpeg",
+                "name": "VINIT GAIKWAD",
+                "skills": "Cyber Attacks, SQL Injections, Language Scripts"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3a.jpg",
+                "name": "ANKITA AWASTI",
+                "skills": "Python Scripting, System Exploitation , Network Management, Routing Intercept"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.jpg",
+                "name": "DEEPAK CHAUHAN",
+                "skills": "Virus Creation, Wireshark, Dump Exports, Root Access OS, Bash Scripting"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "title": "Network Software",
+                "s1":"Wireshark",
+                "s2":"TCPDump",
+                "s3":"Kismet",
+                "s4":"Sysdig",
+                "s5":"Netstat"
+            },
+            {
+                "id": 2,
+                "title": "Expertise",
+                "s1":"DDOS Attack",
+                "s2":"MITM Attack",
+                "s3":"Malware Delivery",
+                "s4":"Remote Access",
+                "s5":"Server Exploit"
+            },
+            {
+                "id": 3,
+                "title": "Lang Used",
+                "s1":"Javascript",
+                "s2":"Python",
+                "s3":"Perl",
+                "s4":"Bash",
+                "s5":"PHP"
+            },
+            {
+                "id": 4,
+                "title": "Exports(Proffessional)",
+                "s1":"Python Scripts",
+                "s2":"Log Tracker",
+                "s3":"Custom Ransomware",
+                "s4":"AI Web Testing Algorithm",
+                "s5":"Intercept Applications"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 2,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 3,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 4,
+                "title": "CONTACT",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
